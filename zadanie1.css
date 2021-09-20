@@ -1,0 +1,35 @@
+#image{
+	width:100px;
+	height:100px;
+	
+	
+	
+}
+#naz{
+	margin:0 5px 0 0;
+    padding:0;
+	
+	
+}
+#head{
+	width:200px;
+	padding-bottom:10px;
+	
+}
+
+#content{
+text-align:center;
+	
+	
+	
+}
+li{ 
+list-style-type: none;
+}
+
+footer{
+	text-align:left;
+	
+	
+	
+}
